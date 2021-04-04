@@ -2,6 +2,8 @@
 
 **Name:** Sanjai Subramanian
 
+![A super attractive picture of me](/Headshot.jpg "Please don't look for too long, it might be contagious").
+
 **About me:** I'm a lackluster programmer who is feeling kind of overwhelmed by all the stuff we have to do for this lab.
 Even with this very helpful [Github tutorial](https://github.com/bzdgn/git-tutorial) I still feel mostly lost.
 

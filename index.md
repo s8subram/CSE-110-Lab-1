@@ -9,9 +9,9 @@ Even with this very helpful [Github tutorial](https://github.com/bzdgn/git-tutor
 
 My favorite three programming languages, in order, are:
 
-1) Python
-2) Java
-3) C
+1. Python
+2. Java
+3. C
 
 Coincidentally, these are also basically the only 3 languages I know with any degree of real skill.
 

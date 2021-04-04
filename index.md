@@ -30,7 +30,7 @@ My main goals for this class are:
 
 So apparently I'm supposed to include a bunch of different Markdown elements, most of which don't feel like they organically belong in an About page, so I guess I'll just do them inorganically.
 
-In case you forgot where the beginning of this document is and your scroll wheel is broken, it's right [here](https://github.com/s8subram/CSE-110-Lab-1/new/main#about).
+In case you forgot where the beginning of this document is and your scroll wheel is broken, it's right [here](https://github.com/s8subram/CSE-110-Lab-1/blob/main/index.md#about).
 
 Here's a [link](README.md) to the README.md document of this repo, I guess.
 
